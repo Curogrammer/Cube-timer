@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+* {
+  font-family: "Open Sans", sans-serif;
+  overflow: hidden;
+  text-align: center;
+}
+
+.vh-80 {
+  height: 80vh;
+}
+
+.fs-huge {
+  font-size: 15em;
+}
+
+#icons i {
+  color: #888;
+}
+
+#icons i:hover {
+  color: black;
+}
